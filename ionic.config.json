@@ -1,0 +1,8 @@
+{
+  "name": "halalkitchen",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite",
+  "id": "ac0c3cc8"
+}
